@@ -1,3 +1,3 @@
-# Test application
-This is the test application
-[*Test App*](https://test.com/)
+# Sample application
+This is the sample application
+[*Sample App*](https://sample.com/)
